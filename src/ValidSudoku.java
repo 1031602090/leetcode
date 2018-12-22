@@ -3,8 +3,10 @@
  * @link https://leetcode.com/problems/valid-sudoku/
  */
 public class ValidSudoku {
-    static boolean[] b = new boolean[9];
-    public boolean isValidSudoku(char[][] board) {
+
+    private static boolean[] b = new boolean[9];
+
+    private boolean isValidSudoku(char[][] board) {
         return checkCol(board) && checkRow(board) && checkSubBoxes(board);
     }
 
