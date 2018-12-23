@@ -1,3 +1,5 @@
+package completed;
+
 public class SearchInRotatedSortedArray {
     public static void main(String[] args) {
         System.out.println(mySolution(new int[]{8,7},7));

@@ -1,3 +1,5 @@
+package completed;
+
 /**
  * leetcode 35
  * @link https://leetcode.com/problems/search-insert-position/

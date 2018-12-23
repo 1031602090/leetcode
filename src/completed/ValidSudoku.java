@@ -1,3 +1,5 @@
+package completed;
+
 /**
  * leetcode 36
  * @link https://leetcode.com/problems/valid-sudoku/
