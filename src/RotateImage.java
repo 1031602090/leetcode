@@ -5,26 +5,34 @@ import java.util.Arrays;
  */
 public class RotateImage {
     public static void rotate(int[][] matrix) {
-
-
+        reverse(matrix);
+        for(int i=0;i<matrix.length;i++){
+            for(int j=i;j<matrix.length;j++){
+                int t = matrix[i][j];
+                matrix[i][j] = matrix[j][i];
+                matrix[j][i] = t;
+            }
+        }
     }
 
+    private static void reverse(int[][] matrix) {
+        int[] t;
+        for(int i=0;i<matrix.length/2;i++){
+            t = matrix[i];
+            matrix[i] = matrix[matrix.length-i-1];
+            matrix[matrix.length-i-1] = t;
+        }
+    }
 
     public static void main(String[] args) {
-        /*int[][] a = new int[][]{
-                {1, 2, 3},
-                {4, 5, 6},
-                {7, 8, 9}
-        };*/
         int[][] a = new int[][]{
-                { 5, 1, 9,11},
-                { 2, 4, 8,10},
-                {13, 3, 6, 7},
-                {15,14,12,16}
+                {1,2,3},
+                {4,5,6},
+                {7,8,9}
         };
         rotate(a);
         System.out.println(Arrays.deepToString(a));
-//        System.out.println(Arrays.toString(getNextPos(1, 2, 2,2,1,1)));
 
     }
+
 }
