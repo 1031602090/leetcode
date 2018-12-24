@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -35,20 +36,17 @@ public class GroupAnagrams {
         return res;
     }
     private static boolean rep(String a,String b){
-        boolean[] tmp = new boolean[a.length()];
-        for(int i=0;i<a.length();i++){
-            if(tmp[i] || a.indexOf(b.charAt(i)) == -1){
-                break;
-            }
-            tmp[i] = true;
-        }
-        for(boolean f:tmp){
-            if(!f) return false;
+        char[] x = a.toCharArray();
+        char[] y = b.toCharArray();
+        Arrays.sort(x);
+        Arrays.sort(y);
+        for(int i=0;i<x.length;i++){
+            if(x[i]!=y[i]) return false;
         }
         return true;
     }
     public static void main(String[] args) {
-        System.out.println(rep("bob","bob"));
-//        System.out.println(groupAnagrams(new String[]{"hos","boo","nay","deb","wow","bop","bob","brr","hey","rye","eve","elf","pup","bum","iva","lyx","yap","ugh","hem","rod","aha","nam","gap","yea","doc","pen","job","dis","max","oho","jed","lye","ram","pup","qua","ugh","mir","nap","deb","hog","let","gym","bye","lon","aft","eel","sol","jab"}));
+        System.out.println(rep("bob","bbo"));
+//        System.out.println(groupAnagrams(new String[]{}));
     }
 }
