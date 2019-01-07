@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfcc71a2-ea4b-42fb-ac38-d120b7b78f79" name="Default" comment="sync">
+      <change afterPath="$PROJECT_DIR$/src/JumpGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/completed/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/leetcode.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/completed/CombinationSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/completed/CombinationSumII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/completed/CountAndSay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/completed/FindFirstandLastPositionofElementinSortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/completed/LongestValidParentheses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/completed/MultiplyStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/completed/Permutation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/completed/Permutations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/completed/SearchInRotatedSortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/completed/SearchInsertPosition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/completed/ValidSudoku.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RotateImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RotateImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RotateImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/completed/RotateImage.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,19 +54,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RotateImage.java">
+        <entry file="file://$PROJECT_DIR$/src/completed/RotateImage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
-              <caret line="33" column="51" lean-forward="true" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+            <state relative-caret-position="26">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/completed/SpiralMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/GroupAnagrams.java">
+        <entry file="file://$PROJECT_DIR$/src/JumpGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+            <state relative-caret-position="312">
+              <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -105,6 +132,10 @@
         <option value="$PROJECT_DIR$/src/Permutations.java" />
         <option value="$PROJECT_DIR$/src/completed/Permutations.java" />
         <option value="$PROJECT_DIR$/src/RotateImage.java" />
+        <option value="$PROJECT_DIR$/src/Pow.java" />
+        <option value="$PROJECT_DIR$/src/SpiralMatrix.java" />
+        <option value="$PROJECT_DIR$/src/completed/SpiralMatrix.java" />
+        <option value="$PROJECT_DIR$/src/JumpGame.java" />
       </list>
     </option>
   </component>
@@ -114,7 +145,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -128,7 +159,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,13 +176,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545661038956" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546792146815" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -183,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RotateImage">
+  <component name="RunManager" selected="Application.JumpGame">
     <configuration name="CombinationSum" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="completed.CombinationSum" />
       <module name="leetcode" />
@@ -200,24 +231,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplyStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="completed.MultiplyStrings" />
+    <configuration name="JumpGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JumpGame" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="completed.Permutation" />
-      <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="completed.Permutations" />
+    <configuration name="Pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pow" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -225,7 +248,15 @@
       </method>
     </configuration>
     <configuration name="RotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RotateImage" />
+      <option name="MAIN_CLASS_NAME" value="completed.RotateImage" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="completed.SpiralMatrix" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -255,18 +286,18 @@
     <list>
       <item itemvalue="Application.CombinationSum" />
       <item itemvalue="Application.CountAndSay" />
-      <item itemvalue="Application.MultiplyStrings" />
-      <item itemvalue="Application.Permutation" />
-      <item itemvalue="Application.Permutations" />
       <item itemvalue="Application.RotateImage" />
+      <item itemvalue="Application.Pow" />
+      <item itemvalue="Application.SpiralMatrix" />
+      <item itemvalue="Application.JumpGame" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JumpGame" />
+        <item itemvalue="Application.SpiralMatrix" />
+        <item itemvalue="Application.Pow" />
         <item itemvalue="Application.RotateImage" />
         <item itemvalue="Application.CountAndSay" />
-        <item itemvalue="Application.Permutations" />
-        <item itemvalue="Application.Permutation" />
-        <item itemvalue="Application.MultiplyStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -305,6 +336,11 @@
       <workItem from="1545538125701" duration="6000" />
       <workItem from="1545564870037" duration="5491000" />
       <workItem from="1545661000833" duration="53000" />
+      <workItem from="1545664987601" duration="517000" />
+      <workItem from="1546525065631" duration="4054000" />
+      <workItem from="1546702192298" duration="1548000" />
+      <workItem from="1546775204401" duration="11614000" />
+      <workItem from="1546870568179" duration="234000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1537410242027</created>
@@ -327,17 +363,24 @@
       <option name="project" value="LOCAL" />
       <updated>1545565779688</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="sync">
+      <created>1545665024345</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1545665024345</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75610000" />
+    <option name="totallyTimeSpent" value="93577000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49801588" visible="true" weight="0.17095852" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49801588" visible="true" weight="0.18097281" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -347,15 +390,15 @@
       <window_info id="JRebel" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299566" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966466" weight="0.25903615" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49966466" weight="0.45783132" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966466" weight="0.32289156" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49966466" weight="0.32289156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3299566" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50033534" side_tool="true" weight="0.3835022" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32866243" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.22650602" />
       <window_info anchor="bottom" id="Statistic" order="12" />
       <window_info anchor="bottom" id="JRebel Executor" order="13" />
@@ -376,9 +419,89 @@
       <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.3293092" />
       <window_info anchor="right" id="Maven" order="12" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49801588" visible="true" weight="0.17525035" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5019841" side_tool="true" weight="0.13480885" />
+      <window_info id="JRebel" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299566" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966466" weight="0.25903615" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49966466" weight="0.45783132" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50033534" side_tool="true" weight="0.3835022" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32866243" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.22650602" />
+      <window_info anchor="bottom" id="Statistic" order="12" />
+      <window_info anchor="bottom" id="JRebel Executor" order="13" />
+      <window_info anchor="bottom" id="JRebel Console" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Duplicate detector" order="16" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.19746646" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32935917" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3293092" />
+      <window_info anchor="right" id="BPMNPalette" order="9" />
+      <window_info anchor="right" id="Mybatis datasource" order="10" side_tool="true" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.3293092" />
+      <window_info anchor="right" id="Maven" order="12" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a" />
@@ -391,6 +514,11 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>matrix[r][c]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>board[m][n]-'1'</expression-string>
         <language-id>JAVA</language-id>
@@ -530,17 +658,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RotateImage.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/StrictMath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="33" column="51" lean-forward="true" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+        <state relative-caret-position="-4984">
+          <caret line="515" column="49" selection-start-line="515" selection-start-column="41" selection-end-line="515" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="550" column="40" lean-forward="true" selection-start-line="550" selection-start-column="40" selection-end-line="550" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GroupAnagrams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        <state relative-caret-position="26">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/completed/RotateImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/completed/SpiralMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JumpGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>
