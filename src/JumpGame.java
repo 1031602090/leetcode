@@ -22,9 +22,14 @@ public class JumpGame {
         return true;
     }
 
-    public static boolean canJump2(int[] nums) {
+    public static boolean canJump1(int[] nums) {
         if(nums.length == 0) return true;
-        return true;
+        int lastIndex = nums.length-1;
+        for(int i=lastIndex;i>=0;i--){
+            if(nums[i]+i>=lastIndex)
+                lastIndex = i;
+        }
+        return lastIndex==0;
     }
 
     public static void main(String[] args) {
@@ -33,10 +38,17 @@ public class JumpGame {
         int[] t3 = new int[]{1,0};
         int[] t4 = new int[]{2,3,1,1,4};
         int[] t5 = new int[]{1,2,0,1};
-//        System.out.println(canJump(t1));
-//        System.out.println(canJump(t2));
-//        System.out.println(canJump(t3));
-//        System.out.println(canJump(t4));
+        System.out.println(canJump(t1));
+        System.out.println(canJump(t2));
+        System.out.println(canJump(t3));
+        System.out.println(canJump(t4));
         System.out.println(canJump(t5));
+        System.out.println("----------------");
+
+        System.out.println(canJump1(t1));
+        System.out.println(canJump1(t2));
+        System.out.println(canJump1(t3));
+        System.out.println(canJump1(t4));
+        System.out.println(canJump1(t5));
     }
 }
