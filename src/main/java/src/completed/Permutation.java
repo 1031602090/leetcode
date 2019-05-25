@@ -10,6 +10,7 @@ public class Permutation {
             for (int aR : a) {
                 System.out.print(aR+" ");
             }
+            System.out.println();
             return;
         }
         for (int j=i;j<a.length;j++ ){
@@ -59,10 +60,6 @@ public class Permutation {
         }
     }
     public static void main(String[] args) {
-        int[] t = new int[]{1,2};
-        reverse(t,0,1);
-        System.out.println(t[0]+"  "+t[1]);
-        int[] a = nextPermutation(new int[]{1,3,2});
-        for(int i:a) System.out.print(i);
+        getPermutation(new int[]{1,2,3,4},0);
     }
 }

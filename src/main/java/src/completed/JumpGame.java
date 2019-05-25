@@ -1,3 +1,5 @@
+package completed;
+
 /**
  * @see <a href="https://leetcode.com/problems/jump-game/"></a>
  */
