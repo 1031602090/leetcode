@@ -1,7 +1,5 @@
 package completed;
 
-import java.util.Arrays;
-
 /**
  * @see <a href="https://leetcode.com/problems/length-of-last-word/"></a>
  */
