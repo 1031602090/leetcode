@@ -1,5 +1,7 @@
 package completed;
 
+import other.ListNode;
+
 public class RotateList {
     public static ListNode rotateRight(ListNode head, int k) {
         int len = 0;
@@ -37,7 +39,7 @@ public class RotateList {
             q = q.next;
             p = p.next;
         }
-        print(p);
+        p.print();
 
         System.out.println("---------");
         return head;
@@ -47,29 +49,5 @@ public class RotateList {
         System.out.println(Integer.MAX_VALUE);
     }
 
-    static ListNode create(int... a) {
-        ListNode h = new ListNode(-1);
-        ListNode p = h;
-        for (int i : a) {
-            p.next = new ListNode(i);
-            p = p.next;
-        }
-        return h;
-    }
 
-    static void print(ListNode head) {
-        while (head != null) {
-            System.out.println(head.val);
-            head = head.next;
-        }
-    }
-}
-
-// Definition for singly-linked list.
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) {
-        val = x;
-    }
 }
