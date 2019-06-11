@@ -24,6 +24,6 @@ public class ListNode {
             System.out.print(t.val);
             t = t.next;
         }
-        System.out.println("------");
+        System.out.println("\n------");
     }
 }
