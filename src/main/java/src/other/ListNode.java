@@ -18,12 +18,19 @@ public class ListNode {
         return f.next;
     }
 
-    public void print() {
+    @Override
+    public String toString() {
+        StringBuilder sb = new StringBuilder();
         ListNode t = this;
         while (t != null) {
-            System.out.print(t.val);
+            sb.append(t.val).append(" ");
             t = t.next;
         }
+        return sb.toString();
+    }
+
+    public void print() {
+        System.out.println(toString());
         System.out.println("\n------");
     }
 }
