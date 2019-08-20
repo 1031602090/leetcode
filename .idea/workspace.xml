@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="413e53e9-bdaf-46ec-a7de-a33c7bc1f056" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/other/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/temp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/todo/BinaryTreeLevelOrderTraversalII107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/todo/ConvertSortedListToBinarySearchTree109.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/todo/RestoreIPAddresses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/todo/SameTree100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/PalindromePartitioning131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/PascalsTriangleII119.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/other/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/todo/CloneGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/todo/WordBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/src/other/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/other/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/temp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/temp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/todo/BinaryTreeLevelOrderTraversalII107.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/completed/BinaryTreeLevelOrderTraversalII107.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/todo/ConvertSortedListToBinarySearchTree109.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/completed/ConvertSortedListToBinarySearchTree109.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/todo/RestoreIPAddresses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/completed/RestoreIPAddresses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/todo/SameTree100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/completed/SameTree100.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,78 +37,17 @@
     <favorites_list name="leetcode" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/src/todo/BinaryTreeLevelOrderTraversalII107.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/src/todo/RestoreIPAddresses.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/src/todo/SameTree100.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="754">
-              <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/src/todo/ConvertSortedListToBinarySearchTree109.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+            <state relative-caret-position="1092">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/src/other/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-              <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#137#138#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/src/other/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-165">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#605#606#0" expanded="true" />
+                <element signature="e#1292#1293#0" expanded="true" />
+                <element signature="e#1339#1340#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,6 +62,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace>\n</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -154,22 +106,32 @@
         <option value="$PROJECT_DIR$/src/main/java/src/todo/ReverseBetween.java" />
         <option value="$PROJECT_DIR$/src/main/java/src/todo/ReverseBetween92.java" />
         <option value="$PROJECT_DIR$/src/main/java/src/completed/ReverseBetween92.java" />
-        <option value="$PROJECT_DIR$/src/main/java/src/todo/RestoreIPAddresses.java" />
-        <option value="$PROJECT_DIR$/src/main/java/src/temp/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/src/other/a.java" />
-        <option value="$PROJECT_DIR$/src/main/java/src/todo/SameTree100.java" />
         <option value="$PROJECT_DIR$/src/main/java/src/todo/dasd.java" />
         <option value="$PROJECT_DIR$/src/main/java/src/todo/BinaryTreeLevelOrderTraversalII107.java" />
         <option value="$PROJECT_DIR$/src/main/java/src/todo/aa.java" />
         <option value="$PROJECT_DIR$/src/main/java/src/other/ListNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/src/other/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/src/todo/SameTree100.java" />
+        <option value="$PROJECT_DIR$/src/main/java/src/todo/RestoreIPAddresses.java" />
         <option value="$PROJECT_DIR$/src/main/java/src/todo/ConvertSortedListToBinarySearchTree109.java" />
+        <option value="$PROJECT_DIR$/src/main/java/src/completed/BinaryTreeLevelOrderTraversalII107.java" />
+        <option value="$PROJECT_DIR$/src/main/java/src/temp/Main.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$USER_HOME$/Desktop/1.txt" />
+        <option value="$USER_HOME$/Desktop/新建文件.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/src/todo/PascalsTriangleII119.java" />
+        <option value="$PROJECT_DIR$/src/main/java/src/todo/PalindromePartitioning131.java" />
+        <option value="$PROJECT_DIR$/src/main/java/src/other/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/src/todo/CloneGraph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/src/todo/a.java" />
+        <option value="$PROJECT_DIR$/src/main/java/src/todo/WordBreak.java" />
+        <option value="$PROJECT_DIR$/src/main/java/src/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="726" />
-    <option name="width" value="714" />
+    <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -180,6 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="CatdeaLogs" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -214,29 +177,10 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="todo" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="CatdeaLogs" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -247,14 +191,14 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561901667101" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566202069560" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -273,29 +217,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConvertSortedListToBinarySearchTree109">
-    <configuration name="ConvertSortedListToBinarySearchTree109" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="todo.ConvertSortedListToBinarySearchTree109" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="todo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DecodeWays91" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="completed.DecodeWays91" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="completed.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -313,21 +238,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestoreIPAddresses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="todo.RestoreIPAddresses" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="todo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseBetween92" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="completed.ReverseBetween92" />
+    <configuration name="PalindromePartitioning131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="completed.PalindromePartitioning131" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -339,13 +251,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PascalsTriangleII119" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="completed.PascalsTriangleII119" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="completed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="todo.WordBreak" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="todo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConvertSortedListToBinarySearchTree109" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.WordBreak" />
+        <item itemvalue="Application.PalindromePartitioning131" />
+        <item itemvalue="Application.PascalsTriangleII119" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.RestoreIPAddresses" />
-        <item itemvalue="Application.ReverseBetween92" />
-        <item itemvalue="Application.DecodeWays91" />
       </list>
     </recent_temporary>
   </component>
@@ -379,6 +317,15 @@
       <workItem from="1560860298219" duration="869000" />
       <workItem from="1561516051418" duration="4168000" />
       <workItem from="1561899188785" duration="1730000" />
+      <workItem from="1562137822242" duration="177000" />
+      <workItem from="1562138058797" duration="2656000" />
+      <workItem from="1562158184695" duration="142000" />
+      <workItem from="1562392629996" duration="1342000" />
+      <workItem from="1563096062352" duration="491000" />
+      <workItem from="1563177274095" duration="3905000" />
+      <workItem from="1563245355662" duration="1905000" />
+      <workItem from="1564127230947" duration="3748000" />
+      <workItem from="1566200182012" duration="1885000" />
     </task>
     <task id="LOCAL-00001" summary="sync">
       <created>1558946555786</created>
@@ -391,13 +338,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60485000" />
+    <option name="totallyTimeSpent" value="76736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49814126" visible="true" weight="0.23319027" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49814126" visible="true" weight="0.17739628" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -406,20 +353,21 @@
       <window_info id="JRebel" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3110285" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38909543" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27633208" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35935563" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32961586" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.31226766" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.40892193" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32961586" />
       <window_info anchor="bottom" id="JRebel Console" order="13" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Executor" order="14" />
       <window_info anchor="bottom" id="Duplicate detector" order="15" weight="0.32961586" />
+      <window_info anchor="bottom" id="Statistic" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -640,41 +588,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/src/other/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/src/completed/ConvertSortedListToBinarySearchTree109.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/src/temp/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        <state relative-caret-position="234">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
           <folding>
             <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/src/todo/RestoreIPAddresses.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/src/completed/SameTree100.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="182">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/src/todo/SameTree100.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/src/completed/RestoreIPAddresses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+        <state relative-caret-position="104">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/src/todo/BinaryTreeLevelOrderTraversalII107.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/src/completed/BinaryTreeLevelOrderTraversalII107.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+        <state relative-caret-position="182">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -683,34 +652,75 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/src/other/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165">
+        <state relative-caret-position="52">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
             <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/src/other/ListNode.java">
+    <entry file="file://$USER_HOME$/Desktop/1.txt" />
+    <entry file="file://$USER_HOME$/Desktop/新建文件.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/src/completed/PascalsTriangleII119.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/src/todo/ConvertSortedListToBinarySearchTree109.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+        <state relative-caret-position="130">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/src/completed/PalindromePartitioning131.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/src/todo/WordBreak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/src/todo/CloneGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/src/other/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#1339#1340#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -755,7 +765,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -772,6 +782,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

@@ -1,4 +1,4 @@
-package todo;
+package completed;
 
 import other.TreeNode;
 
@@ -10,10 +10,6 @@ import java.util.Stack;
  * https://leetcode-cn.com/problems/same-tree/
  */
 public class SameTree100 {
-    public static void main(String[] args) {
-
-    }
-
     public boolean isSameTree(TreeNode p, TreeNode q) {
         Queue<TreeNode> treeNodes = new LinkedList<>();
         treeNodes.offer(p);

@@ -1,15 +1,10 @@
-package todo;
+package completed;
 
 import java.util.LinkedList;
 import java.util.List;
 
 public class RestoreIPAddresses {
     private static List<String> res = new LinkedList<>();
-
-    public static void main(String[] args) {
-        restoreIpAddresses("010010");
-        res.forEach(System.out::println);
-    }
 
     public static List<String> restoreIpAddresses(String s) {
         restoreIpAddressesHelper(s, new StringBuilder(), 0, 12);

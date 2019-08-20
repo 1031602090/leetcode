@@ -1,4 +1,4 @@
-package todo;
+package completed;
 
 import other.ListNode;
 import other.TreeNode;
@@ -34,12 +34,5 @@ public class ConvertSortedListToBinarySearchTree109 {
         this.head = head;
         int size = size(head);
         return listToBinaryTree(0,size-1);
-    }
-
-    public static void main(String[] args) {
-        ListNode build = ListNode.build(-10, -3, 0, 5, 9);
-        TreeNode node = new ConvertSortedListToBinarySearchTree109().sortedListToBST(build);
-        System.out.println(node);
-        System.out.println(1 ^ 2 ^ ~3);
     }
 }
