@@ -1,3 +1,5 @@
+package newcoder;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -7,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        List<Node> diskList = new ArrayList<>();
+        List<Node> diskList = new ArrayList<>(n);
         for (int i = 0; i < n; i++)
             diskList.add(new Node(sc.next()));
         Collections.sort(diskList);
@@ -16,6 +18,7 @@ public class Main {
 
     static class Node implements Comparable<Node> {
         String val;
+
         Node(String val) {
             this.val = val;
         }
