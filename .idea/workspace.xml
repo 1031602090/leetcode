@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="413e53e9-bdaf-46ec-a7de-a33c7bc1f056" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/sortAlgorithm/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/test/error" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/todo/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/BSTIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/EvaluateReversePolishNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/FractionToRecurringDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/MaximumProductSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/NumIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/ReverseWordsInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/RightSideView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/temp/a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/temp/b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/todo/CourseSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/todo/MinimumSizeSubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/todo/Trie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/other/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/other/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/test/error" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/test/error" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +36,20 @@
   <component name="CoverageViewManager">
     <option name="myElementSize" value="201" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="leetcode" />
   </component>
@@ -34,14 +60,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find />
-    </findStrings>
-    <replaceStrings>
-      <replace>\n</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,13 +76,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567737164833" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -83,9 +102,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LRUCache">
-    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="todo.LRUCache" />
+  <component name="RunManager" selected="Application.Trie">
+    <configuration name="CourseSchedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="todo.CourseSchedule" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -97,34 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="newcoder.Main" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="newcoder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="newcoder.Main2" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="newcoder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReorderList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="completed.ReorderList" />
+    <configuration name="FractionToRecurringDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="completed.FractionToRecurringDecimal" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -136,12 +129,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortAlgorithm.Sort" />
+    <configuration name="NumIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="completed.NumIslands" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sortAlgorithm.*" />
+          <option name="PATTERN" value="completed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="todo.Trie" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="todo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="todo.vv" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="completed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LRUCache" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Sort" />
-        <item itemvalue="Application.ReorderList" />
-        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Trie" />
+        <item itemvalue="Application.CourseSchedule" />
+        <item itemvalue="Application.NumIslands" />
+        <item itemvalue="Application.FractionToRecurringDecimal" />
+        <item itemvalue="Application.vv" />
       </list>
     </recent_temporary>
   </component>
@@ -214,6 +233,26 @@
       <workItem from="1568033093214" duration="985000" />
       <workItem from="1568187642080" duration="7250000" />
       <workItem from="1568251070791" duration="4348000" />
+      <workItem from="1568635870312" duration="1430000" />
+      <workItem from="1568686311803" duration="19000" />
+      <workItem from="1569031188422" duration="310000" />
+      <workItem from="1569328801366" duration="5556000" />
+      <workItem from="1569415618753" duration="275000" />
+      <workItem from="1569465456512" duration="3131000" />
+      <workItem from="1569654961284" duration="600000" />
+      <workItem from="1569738180195" duration="596000" />
+      <workItem from="1570585300688" duration="4128000" />
+      <workItem from="1570671785293" duration="15000" />
+      <workItem from="1570868366094" duration="6968000" />
+      <workItem from="1571059331258" duration="874000" />
+      <workItem from="1571106621320" duration="8411000" />
+      <workItem from="1571279626413" duration="1288000" />
+      <workItem from="1571303439168" duration="870000" />
+      <workItem from="1571657939906" duration="718000" />
+      <workItem from="1571812319928" duration="6287000" />
+      <workItem from="1571969385441" duration="5684000" />
+      <workItem from="1572168547212" duration="195000" />
+      <workItem from="1572168846766" duration="46000" />
     </task>
     <task id="LOCAL-00001" summary="sync">
       <created>1558946555786</created>
@@ -244,17 +283,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sync" />
     <option name="LAST_COMMIT_MESSAGE" value="sync" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/src/todo/LRUCache.java</url>
-          <line>89</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="masterDetails">
     <states>

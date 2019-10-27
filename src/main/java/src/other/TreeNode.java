@@ -11,7 +11,7 @@ public class TreeNode {
 
     @Override
     public String toString() {
-        return inOrder(this).toString();
+        return String.valueOf(val);
     }
 
     private StringBuilder inOrder(TreeNode t){
