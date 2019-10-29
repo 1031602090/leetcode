@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="413e53e9-bdaf-46ec-a7de-a33c7bc1f056" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/BSTIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/EvaluateReversePolishNotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/FractionToRecurringDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/LargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/MaximumProductSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/NumIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/ReverseWordsInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/RightSideView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/temp/a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/temp/b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/todo/CourseSchedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/todo/MinimumSizeSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/todo/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/CourseSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/HouseRobberII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/WordDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/other/CharNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/src/other/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/other/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/src/test/error" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/test/error" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/todo/CourseSchedule.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,13 +92,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Trie">
+  <component name="RunManager" selected="Application.HouseRobberII">
     <configuration name="CourseSchedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="todo.CourseSchedule" />
+      <option name="MAIN_CLASS_NAME" value="completed.CourseSchedule" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="todo.*" />
+          <option name="PATTERN" value="completed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FractionToRecurringDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="completed.FractionToRecurringDecimal" />
+    <configuration name="HouseRobberII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="completed.HouseRobberII" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -143,11 +133,11 @@
       </method>
     </configuration>
     <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="todo.Trie" />
+      <option name="MAIN_CLASS_NAME" value="completed.Trie" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="todo.*" />
+          <option name="PATTERN" value="completed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="vv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="todo.vv" />
+    <configuration name="WordDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="completed.WordDictionary" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -170,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Trie" />
+        <item itemvalue="Application.HouseRobberII" />
         <item itemvalue="Application.CourseSchedule" />
+        <item itemvalue="Application.WordDictionary" />
+        <item itemvalue="Application.Trie" />
         <item itemvalue="Application.NumIslands" />
-        <item itemvalue="Application.FractionToRecurringDecimal" />
-        <item itemvalue="Application.vv" />
       </list>
     </recent_temporary>
   </component>
@@ -253,6 +243,8 @@
       <workItem from="1571969385441" duration="5684000" />
       <workItem from="1572168547212" duration="195000" />
       <workItem from="1572168846766" duration="46000" />
+      <workItem from="1572170334156" duration="2974000" />
+      <workItem from="1572265645042" duration="18305000" />
     </task>
     <task id="LOCAL-00001" summary="sync">
       <created>1558946555786</created>
