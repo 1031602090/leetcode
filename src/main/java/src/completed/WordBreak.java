@@ -26,14 +26,14 @@ public class WordBreak {
     public static boolean wordBreak_1(String s, List<String> wordDict) {
         LinkedList<Integer> pos = new LinkedList<>();
         pos.add(0);
-        var visited = new boolean[s.length()];
+        boolean[] visited = new boolean[s.length()];
         while (!pos.isEmpty()) {
             int t = pos.poll();
             if (t == s.length())
                 return true;
             if (!visited[t]) {
                 for (int i = t + 1; i <= s.length(); i++) {
-                    var w = s.substring(t, i);
+                    String w = s.substring(t, i);
                     if (wordDict.contains(w))
                         pos.offer(i);
                 }

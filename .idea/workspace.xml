@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="413e53e9-bdaf-46ec-a7de-a33c7bc1f056" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/CourseSchedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/HouseRobberII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/WordDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/src/other/CharNode.java" afterDir="false" />
+    <list default="true" id="fa69c6da-8940-42a4-94c0-90d736d2a47f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/CombinationSumIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/completed/KthLargestElementInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/newcoder/LongestDuplicateSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/src/todo/ContainsDuplicateIII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/src/todo/CourseSchedule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/completed/HouseRobberII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/completed/HouseRobberII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/completed/WordBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/completed/WordBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/newcoder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/newcoder/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/src/temp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/temp/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,70 +26,154 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/leetcode$RemoveDuplicatesFromSortedList83.ic" NAME="RemoveDuplicatesFromSortedList83 Coverage Results" MODIFIED="1559803944743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>completed.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/leetcode$SubsetsII90.ic" NAME="SubsetsII90 Coverage Results" MODIFIED="1559638530796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>todo.*</FILTER>
-    </SUITE>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-403290634">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="18" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
-  <component name="CoverageViewManager">
-    <option name="myElementSize" value="201" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="leetcode" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Kotlin File" />
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="FileEditorManager">
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1QSNcx2Uwdv52dEbw69LFwhdBed" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../reids_source_code/redis-in-action/java" value="PREVIEW" />
+        <entry key="D:/开发相关/源码/SpringInAction_SourceCode/Chapter_05/Spittr" value="PREVIEW" />
+        <entry key="D:/开发相关/源码/SpringInAction_SourceCode/Chapter_07/Spittr" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/src/completed/WordBreak.java" />
+        <option value="$PROJECT_DIR$/src/main/java/src/newcoder/LongestDuplicateSubstring.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="-10" />
+    <option name="width" value="1935" />
+    <option name="height" value="1089" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="newcoder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567737164833" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574152914647" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.startup.StartupConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -92,13 +187,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HouseRobberII">
-    <configuration name="CourseSchedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="completed.CourseSchedule" />
+  <component name="RunManager" selected="Application.LongestDuplicateSubstring">
+    <configuration name="LongestDuplicateSubstring (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.src.newcoder.LongestDuplicateSubstring" />
       <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="completed.*" />
+          <option name="PATTERN" value="main.java.src.newcoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +202,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HouseRobberII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="completed.HouseRobberII" />
+    <configuration name="LongestDuplicateSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newcoder.LongestDuplicateSubstring" />
       <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="completed.*" />
+          <option name="PATTERN" value="newcoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +216,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="completed.NumIslands" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newcoder.Main" />
       <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="completed.*" />
+          <option name="PATTERN" value="newcoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,39 +230,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="completed.Trie" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="completed.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="completed.WordDictionary" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="completed.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LongestDuplicateSubstring" />
+      <item itemvalue="Application.LongestDuplicateSubstring (1)" />
+      <item itemvalue="Application.Main" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HouseRobberII" />
-        <item itemvalue="Application.CourseSchedule" />
-        <item itemvalue="Application.WordDictionary" />
-        <item itemvalue="Application.Trie" />
-        <item itemvalue="Application.NumIslands" />
+        <item itemvalue="Application.LongestDuplicateSubstring" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LongestDuplicateSubstring (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -173,108 +268,100 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="413e53e9-bdaf-46ec-a7de-a33c7bc1f056" name="Default Changelist" comment="" />
-      <created>1558794513984</created>
+      <changelist id="fa69c6da-8940-42a4-94c0-90d736d2a47f" name="Default Changelist" comment="" />
+      <created>1574150306847</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558794513984</updated>
-      <workItem from="1558794515173" duration="3364000" />
-      <workItem from="1558842245054" duration="279000" />
-      <workItem from="1558943419824" duration="3043000" />
-      <workItem from="1559028581114" duration="1558000" />
-      <workItem from="1559032483464" duration="3000" />
-      <workItem from="1559206790054" duration="1449000" />
-      <workItem from="1559266075838" duration="8343000" />
-      <workItem from="1559478464196" duration="8609000" />
-      <workItem from="1559554065507" duration="4354000" />
-      <workItem from="1559633336762" duration="3434000" />
-      <workItem from="1559639686881" duration="16000" />
-      <workItem from="1559639719958" duration="1223000" />
-      <workItem from="1559641265907" duration="4102000" />
-      <workItem from="1559718819527" duration="1114000" />
-      <workItem from="1559784866147" duration="4547000" />
-      <workItem from="1560218494660" duration="3026000" />
-      <workItem from="1560324157479" duration="5254000" />
-      <workItem from="1560860298219" duration="869000" />
-      <workItem from="1561516051418" duration="4168000" />
-      <workItem from="1561899188785" duration="1730000" />
-      <workItem from="1562137822242" duration="177000" />
-      <workItem from="1562138058797" duration="2656000" />
-      <workItem from="1562158184695" duration="142000" />
-      <workItem from="1562392629996" duration="1342000" />
-      <workItem from="1563096062352" duration="491000" />
-      <workItem from="1563177274095" duration="3905000" />
-      <workItem from="1563245355662" duration="1905000" />
-      <workItem from="1564127230947" duration="3748000" />
-      <workItem from="1566200182012" duration="1885000" />
-      <workItem from="1566282879994" duration="227000" />
-      <workItem from="1566368929858" duration="2660000" />
-      <workItem from="1566456695975" duration="4463000" />
-      <workItem from="1566522698777" duration="7000" />
-      <workItem from="1566538497356" duration="3048000" />
-      <workItem from="1566543593974" duration="173000" />
-      <workItem from="1566545279905" duration="646000" />
-      <workItem from="1566700193137" duration="1660000" />
-      <workItem from="1567434524808" duration="1313000" />
-      <workItem from="1567503389284" duration="6418000" />
-      <workItem from="1567736970405" duration="253000" />
-      <workItem from="1567760122748" duration="709000" />
-      <workItem from="1567909577944" duration="1000" />
-      <workItem from="1568033093214" duration="985000" />
-      <workItem from="1568187642080" duration="7250000" />
-      <workItem from="1568251070791" duration="4348000" />
-      <workItem from="1568635870312" duration="1430000" />
-      <workItem from="1568686311803" duration="19000" />
-      <workItem from="1569031188422" duration="310000" />
-      <workItem from="1569328801366" duration="5556000" />
-      <workItem from="1569415618753" duration="275000" />
-      <workItem from="1569465456512" duration="3131000" />
-      <workItem from="1569654961284" duration="600000" />
-      <workItem from="1569738180195" duration="596000" />
-      <workItem from="1570585300688" duration="4128000" />
-      <workItem from="1570671785293" duration="15000" />
-      <workItem from="1570868366094" duration="6968000" />
-      <workItem from="1571059331258" duration="874000" />
-      <workItem from="1571106621320" duration="8411000" />
-      <workItem from="1571279626413" duration="1288000" />
-      <workItem from="1571303439168" duration="870000" />
-      <workItem from="1571657939906" duration="718000" />
-      <workItem from="1571812319928" duration="6287000" />
-      <workItem from="1571969385441" duration="5684000" />
-      <workItem from="1572168547212" duration="195000" />
-      <workItem from="1572168846766" duration="46000" />
-      <workItem from="1572170334156" duration="2974000" />
-      <workItem from="1572265645042" duration="18305000" />
+      <updated>1574150306847</updated>
+      <workItem from="1574150308330" duration="2565000" />
     </task>
-    <task id="LOCAL-00001" summary="sync">
-      <created>1558946555786</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1558946555786</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2565000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1548" height="870" extended-state="0" />
+    <layout>
+      <window_info id="JRebel" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20483546" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32913166" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.32913166" />
+      <window_info anchor="bottom" id="Statistic" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="JRebel Executor" />
+      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32913166" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="BPMNPalette" />
+      <window_info anchor="right" id="Mybatis datasource" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="sync" />
-    <option name="LAST_COMMIT_MESSAGE" value="sync" />
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="1716" column="48" selection-start-line="1716" selection-start-column="39" selection-end-line="1716" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/src/completed/WordBreak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1624">
+          <caret line="58" column="36" lean-forward="true" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/src/completed/SimplifyPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/src/newcoder/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-145">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/src/newcoder/LongestDuplicateSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -315,7 +402,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>12</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -351,17 +438,6 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
