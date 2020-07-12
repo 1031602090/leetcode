@@ -9,23 +9,18 @@ public class Sort {
         for (int i = 0; i < 100 * 6000; i++) {
             array[i] = random.nextInt();
         }
-
         long start = System.currentTimeMillis();
         fastSort(array, 0, array.length - 1);
         long end = System.currentTimeMillis();
         System.out.println("time:" + (end - start));
-
         start = System.currentTimeMillis();
         mergeSort(array, 0, array.length - 1);
         end = System.currentTimeMillis();
         System.out.println("time:" + (end - start));
-
         start = System.currentTimeMillis();
         bubbleSort(array);
         end = System.currentTimeMillis();
         System.out.println("time:" + (end - start));
-
-//        System.out.println(Arrays.toString(array));
         check(array);
     }
 
