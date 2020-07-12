@@ -1,7 +1,6 @@
 package newcoder;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
@@ -12,7 +11,7 @@ public class Main {
         List<Node> diskList = new ArrayList<>(n);
         for (int i = 0; i < n; i++)
             diskList.add(new Node(sc.next()));
-        Collections.sort(diskList);
+        diskList.sort(null);
         diskList.forEach(System.out::println);
     }
 
